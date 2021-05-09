@@ -31,7 +31,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   views, and a rich set of commands and functions. For more information see 
   the paper in Bioinformatics.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://octocat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gorpipe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
