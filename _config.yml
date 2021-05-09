@@ -29,9 +29,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   filtering, aggregation etc. The query language combines ideas from SQL and 
   Unix shell pipe syntax, supporting seek-able nested queries, materialized 
   views, and a rich set of commands and functions. For more information see 
-  the <a href="https://dx.doi.org/10.1093%2Fbioinformatics%2Fbtw199">paper</a> in Bioinformatics.
+  the paper in Bioinformatics.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dx.doi.org/10.1093%2Fbioinformatics%2Fbtw199"" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
