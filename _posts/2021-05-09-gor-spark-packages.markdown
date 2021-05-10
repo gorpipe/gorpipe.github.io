@@ -11,4 +11,4 @@ Use the --packages flag with pyspark or spark-shell to load gor-spark dependenci
 pyspark --packages org.gorpipe:gor-spark:3.10.2
 {% endhighlight %}
 
-[Spark packages]: https://github.com/gorpipe/gor/releases/tag/v3.10.1]
+[Spark packages]: https://github.com/gorpipe/gor/releases/tag/v3.10.1

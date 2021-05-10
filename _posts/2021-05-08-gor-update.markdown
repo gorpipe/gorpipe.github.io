@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Gor 3.10.1 released"
-date:   2021-05-08 08:21:20 +0000
-categories: gor release
+title:  "Gor version 3.10.1 released"
+date:   2021-05-07 08:21:20 +0000
+categories: new version
 ---
 Gor has been updated to version 3.10.1, featuring updates to the file driver framework.
 
