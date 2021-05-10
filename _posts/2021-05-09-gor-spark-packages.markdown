@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GOR Spark using --packages flag"
-date:   2021-05-09 08:32:20 +0000
+date:   2021-05-09 08:31:20 +0000
 categories: gor spark
 ---
 GOR Spark 3.10.2 has been released to the spark-packages repository
