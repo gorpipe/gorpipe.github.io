@@ -2,7 +2,7 @@
 layout: post
 title:  "GOR Spark using --packages flag"
 date:   2021-05-09 08:31:20 +0000
-categories: gor spark
+categories: spark gor
 ---
 GOR Spark 3.10.2 has been released to the spark-packages repository
 Use the --packages flag with pyspark or spark-shell to load gor-spark dependencies to your spark job
