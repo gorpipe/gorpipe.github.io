@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GOR Spark using --packages flag"
+title:  "Gor Spark using --packages flag"
 date:   2021-05-09 08:31:20 +0000
 categories: spark gor
 ---

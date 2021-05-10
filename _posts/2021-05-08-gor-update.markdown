@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GOR 3.10.1 released"
+title:  "Gor 3.10.1 released"
 date:   2021-05-09 08:21:20 +0000
 categories: gor release
 ---
