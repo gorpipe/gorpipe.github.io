@@ -35,6 +35,26 @@ url: "https://gorpipe.github.io" # the base hostname & protocol for your site, e
 twitter_username: jekyllrb
 github_username:  jekyll
 
+authors:
+  gisli:
+    name: Gísli Magnússon
+    display_name: gisli
+    email: gisli@genuitysci.com
+    web: https://www.genuitysci.com
+    github: gisli
+  hakon:
+    name: Hákon Guðbjartsson
+    display_name: hakon
+    email: hakon@genuitysci.com
+    web: https://www.genuitysci.com
+    github: hakon
+  sigmar:
+    name: Sigmar Stefansson
+    display_name: sigmar
+    email: sigmar@genuitysci.com
+    web: https://www.genuitysci.com
+    github: sigmarkarl
+
 # Build settings
 theme: minima
 plugins:
